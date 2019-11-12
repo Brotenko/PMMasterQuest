@@ -1,8 +1,6 @@
-# Paper Mario: Master Quest
-
 ![alt text](https://i.imgur.com/ln51Cu0.png)
 
-## Description
+# Description
 
 **Paper Mario: Master Quest** is a mod made for "Paper Mario" on the N64. It was created by **Emperor_Thamz**, **Rainchus**, **JaThePlayer**, and **Brotenko**. It revamps old content and adds plenty of new as well.  
 Often considered "The Dark Souls of Paper Mario", the mod is incredibly difficult. It was designed with elite challenge runners in mind, and unless you have extensive knowledge of Paper Mario, you may struggle with much of the content. 
@@ -17,14 +15,14 @@ For those players we offer **Paper Mario: Master Quest Jr** which has all of the
 - Item and Badge rebalancing, some more obscure tools are now viable.
 - New badges and partner attacks.
 
-## Setup
+# Setup
 
 1. Download the newest .mod file
 2. Get a Paper Mario (USA) ROM. A .z64 ROM file is required.
 3. Go to [this link](https://hack64.net/tools/patcher.php) to patch your ROM.
 4. Get an emulator, if you have one already, then load the patched ROM file and play! Bizhawk is the recommended emulator for Master Quest.
 
-## FAQ
+# FAQ
 
 **Bizhawk: savestates don't work!**
 > After loading the patched ROM, go to the N64 tab at the top and check "Use Expansion Slot".
@@ -54,7 +52,7 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
 **Where can I post a link if I stream this mod?**
 > Paper Mario Modding and TwoPieRadian [Discord](https://discord.gg/5Gh7daH) channels are a good place to start. Feel free to @Emperor_Thamz if you do, I like to stop by sometimes!
 
-## Patch Notes - **Spoiler warning**
+# Patch Notes - **Spoiler warning**
 
 ### Balance changes:
 #### Overall chapter changes:
