@@ -6,7 +6,7 @@
 Often considered "The Dark Souls of Paper Mario", the mod is incredibly difficult. It was designed with elite challenge runners in mind, and unless you have extensive knowledge of Paper Mario, you may struggle with much of the content. 
 For those players we offer **Paper Mario: Master Quest Jr** which has all of the content the original has, with a much more reasonable difficulty curve. If you want to stream the mod, starting with Jr. is recommended.
 
-**Some of the new content includes:**
+### **Some of the new content includes:**
 - 50+ new maps, including a brand new dungeon!
 - A fully functional Pit of 100 Trials.
 - 60+ new enemies, ranging from recolors to fully custom enemies.
