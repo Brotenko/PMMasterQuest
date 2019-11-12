@@ -114,7 +114,7 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
       - Faster leeching while flying 
   + Crystal King:
       - Slightly higher resistance to fire. 
-      - Fire shell will deal 8 DMG now.
+      - Fire shell will deal 9 DMG now.
       - Icebolt DMG increased: **12** -> **14**
       - Bit-Spit-Speed now based on the times healed.
       - Triple Breath randomization is now a **5 frame-window**. 
@@ -189,7 +189,7 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
   + Crystal King EX:
       - Slight AI edits have been made
       - Slightly more resistant to fire now. 
-      - Fire shell will deal 8 DMG now.
+      - Fire shell will deal 9 DMG now.
       - Bit-Spit-Speed now based on the times healed.
       - Triple Breath randomization is now a **5 frame-window**. 
   + Giga Bowser:
@@ -201,8 +201,9 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
       - Heals decreased: **90HP** -> **80HP**
 - **Sewers:** 
    - Dark Koopa AI reworked to be harder to get stunlocked. 
-   + Boo DMG lowered: **7** -> **6**
-   - Gains **1 turn** invisibility when at half HP.
+   + Boo:
+      - DMG lowered: **7** -> **6**
+      - Gains **1 turn** invisibility when at half HP.
    + Blooper now has increased status resistance. 
    + Electro Blooper now has increased status resistance. 
    + Super Blooper:
