@@ -1,0 +1,93 @@
+Balance Changes:
+CH1: Bill Blaster HP/ATK/DEF 6/0/2 -> 5/0/3, Bullet Bills give less SP
+CH2: Bandito starts battle invisible for 1t + Swooper perched attack sped up, flying attack greatly sped up and DMG 4 -> 5 + Stone Chomp immune to dizzy, formations updated
+CH3: Bzzap! single sting poison 4t -> 2t, swarm attack poison 2t -> shrink 4t + Hyper Paragoomba DMG 4 -> 5 + Red Clubba randomized swing timing removed
+CH4: Shy Guy (all colors) Acrobatic attack shrink varied but all are now 100%/2t + Dandy Guy no longer makes contact. + Shy Stack much more resistant to dizzy, slightly more resistant to paralysis + General Guy AI reworked
+CH5: Fuzzipede heals 4HP -> 7HP + Jungle Fuzzy when shocked, will do 6dmg tackle instead of leeching + Putrid Piranha Dizzy turn modifier -1 -> -2 + M. Bush attack randomization changed + Raphael the Raven mini raven attack bypasses LS again, to avoid crash
+CH6: Crazee Dayzee Sleep Song DMG 5 -> 6, removed looping randomization. Debuff Song DEF -1 -> ATK -1 + Bzzrk! HP 7 -> 6, slightly changed timing of attack Pinkzee Dayzee Dizzy turn modifier 0 -> -2 + Amazy Dayzee runs away after attempting to kill Mario, only gives SP the first time you kill it + Huff n Puff Thunderstorm attack DMG 20 -> 25, below 20HP he will charge/attack same turn. Desperation attack now happens once at 60HP or below, DMG is now 10 + (2 x Ruff Puff ct.) Steals all Life Shrooms the first time the tuff puffs attack. Every other Tuff Puff is invis, no longer random and lasts 3t -> 2t
+CH7: Monstar completely reworked. + White Clubba single swing attack randomized + Swoopula immune to zaptap, faster leeching while flying + Crystal King slightly more resistant to fire. Fire shell will do 8 now, bolt DMG 12 -> 14, Bit Spit speed based on heal count. Triple Breath randomization is now 5 frames.
+CH8: Ember dizzy % 100 -> 60 and turn modifier 1 -> -2, shrink turn modifier 0 -> -1 + Hammer Bro sleep turn modifier -1 -> -2 + Bony Beetle sleep % 60 -> 30, dizzy turn modifier 0 -> -1, paralysis % 75 -> 25 and modifier -1 -> -2 + Magikoopa ATK boost 2 -> 3 + Ztar Attack now removes .5 bars of SE + Bombshell Bill dizzy % 100 -> 50 + Castle Jr Troopa heal 20 -> 10 + 007 Guy Shrink turn modifier 0 -> -1, Fire DEF 0 -> -2, Hammer DMG 8 -> 9, Slingshot DMG 12 -> 14. + Hallway Bowser HP 60 -> 80 + Final Bowser Jump DMG 10 -> 13, Claw DMG 7 -> 6, Shockwave DMG to Mario 6 -> 10, Changes attack pattern if you use zaptap + Dark Koopatrol Main attack DMG 11 -> 12, sleep turns -1 -> -2. Immune to all status besides sleep, added new attack.
+SUPERBOSSES: Goomba King EX 'Shroom Attack DMG 6 -> 9. Blue DEF 0 -> 1 and ATK 4 -> 5, Red ATK 4 -> 6 + Koopa Bros EX HP 70 -> 80, reworked AI, Shell Toss DMG 6 -> 7, drop attack damage 11 -> 12 + Tutankoopa EX Chomp replaced with Golden Chomp, Shell Throw DMG 7 -> 9 no longer shrinks, 3t Static replaced with 1t Invis + Tubba EX Better chance to be shrunk, but for less turns. Smash DMG 8 -> 9 and Leap DMG 10 -> 11 + General Guy EX DEF 4 -> 6, Summons troops differently, Bulb DEF 1 -> 2 + Huff n Puff EX Body Slam DMG 11 -> 13, Thunderstorm DMG 24 -> 25 + 1t paralysis and aerial verion slightly sped up, below 40HP he will charge/attack same turn. Desperation attack now happens once at 90HP, DMG is now 20 + (2 x Ruff Puff ct.) and cannot be avoided. Steals all Life Shrooms the first time the tuff puffs attack. 2 of every 3 puffs will be invis + Crystal King EX Slight AI edits, slightly more resistant to fire. Fire shell will do 8 now. Triple Breath randomization is now 5 frames. Bit speed based on heal count. + Giga Bowser Claw DMG 9 -> 8, Stomp DMG 10 -> 15. no longer makes contact, AI reworked for less RNG and story-style healing. Star Rod combo at 90HP -> 150HP, Heals for 90HP -> 80HP.
+SEWERS: Dark Koopa AI reworked, should be harder to get stunlocked. + Boo DMG 7 -> 6, gains 1t invis when at half HP + Blooper has increased status resist. + Electro Blooper has increased status resist. + Super Blooper Ink DMG 9 -> 11, increased status resist. + Added Anti Blooper and he does exactly what you think, but spawns serparate from other bloopers, so you can't skip him!
+ENDGAME: Added 1 extra Star Piece to the endgame dungeon. Bandit Leader Bandito Elito Sleep and Dizzy modifier -1/0 -> -2/-2. ATK 7 -> 10 + Iron Pokey falling attack DMG 10/9/8 -> 12/10/8, ranged attack DMG 8 -> 9, Electric DEF 0 -> -1, Immune to dizzy + Dark Bones Shrink turn modifier 0 -> -2, gets up 1t faster + Golden Chomp HP 16 -> 15, DMG 10 -> 14 + Dark Boo are harder to block, DMG 7 -> 8, gain 1t invis at half HP, Shrink and Stop turn modifier 0 -> -1 + Golden Cleft Immune to Quake + NEW ENEMY: Gold Bristle - HP 12, ATK 11, DEF 8/-1(Quake)/Immune to fire and blast + Disastar debuff attack cannot be avoided, DEF -1 -> DEF -1 + ATK -1 + removes 1.5 bars of SE
+DOJO: Lee Flying Tackle -1DEF -> -1DEF + -1ATK  + Master, SSJ Master, and SSJ2 Master raise DMG by 2 per hit, drains all SP with each hit + SSJ2 Master Level 86 -> 0, 10-Hit ignores transparency and life shroom
+PIT: Rest Floor hidden block no longer hidden. Added Star Piece to each rest floor.
+CK and CK EX now eat Stone Caps, sorta. He explains it.
+Water Block FP cost 5 -> 4FP
+Multibounce and Truth Stomp switched spots in rowfs shop. Truth Stomp is now available after Ch1 and Multibounce after Ch2
+Truth Stomp DMG 2/4/6 -> 1+1/2+2/3+3
+Fright Jar replaced with Pebble in toad town shop
+Close Call overhauled, now gives +1 DEF in danger for 1BP (Thanks Brotenko!)
+Pretty Lucky overhauled, now doubles SP regen at the end of a turn for 3BP. (Thanks Brotenko + Rain!)
+Lucky Day overhauled, now refunds 1/3 Star Energy when using a star power for 8BP. (Thanks Brotenko + Rain + Ja + Alex + Justin!)
+Changed some formations
+Iron Bonk DMG 3+5 -> 3+3, both hits pierce defense. Now works with Charge. (Thanks Brotenko!) FP 7 -> 6
+Goombario's Charge +2 -> +3, FP cost 1 -> 4
+Gambler's Jump and Smash have been reworked. (Thanks, Brotenko!)
+Endgame enemy family Golden __  had status tables reworked. Each has a 50% weakness to one status, at -2 turn count. All others are 0%
+Air Lift FP cost 5 -> 6
+Removed some RNG from the floor 100 boss
+D-Down Smash BP 3 -> 2
+Dizzy Dance FP 7 -> 6, Dizzy chance 72% (oops hehe) -> 85%
+Hammer Throw +1 DMG -> +2 DMG
+Medicine Man now gives + 50% FP as well (Thanks Brotenko!)
+Multi-Smash uses charge on each hit now, instead of just the first (Thanks, Brotenko!)
+Air Raid FP 8 -> 7
+Screech Ultra Rank DMG 3 -> 4 (Thanks Brotenko!)
+Dizzy Attack BP 2 -> 3
+Changed the formation a bit for the CH8 Duplighost fight.
+Mega Smash and Multi-Smash switched locations
+Bosses who destroy a specific item now destroy all of the particular item in one turn rather than one per turn.
+Kooky Cookie and Strange Cake now give 1t invis.
+Life Shroom on SSS has become an Ultra Shroom.
+Frozen Fries 15HP -> 25HP
+Money Money BP 2 -> 0
+Added Extra Happy Heart and Flower to the Star Piece shop.
+New endgame fight! Make sure you check the Dojo :3
+
+Bugfixes:
+Text fixes. Like a ton of them. Ask Purseit, there were probably at LEAST like 12.
+Buzzar can no longer be skipped by getting the super hammer and opening the shortcut before beating tutankoopa
+Spike Tops in the volcano now have the correct status table (overall much more resistant, especially to dizzy)
+Multi-Smash damage is the same for each hit now
+General Guy EX Bulb doesnt crash stuff anymore, and tank is correctly immune to Quake
+When the Lil' Oink machine is fixed the Toad correctly tells you
+Fixed a few oob glitches/map errors
+Fixed Endgame enemy Golden Chomp looping animation incorrectly
+Fixed a few (read: a ton of) sprites
+Chill Out doesnt yeet stuff with >128HP anymore. Everyone say "Thank you Rain!"
+Hallway Bowser no longer has chance to be statused, and fixed an animation error
+All Shyguys now have the same attack pattern.
+Fixed a few LZ that could give issues when entering the map
+Goombario's Charge cap fixed
+Normal Paragoombas now have the extra damage their family is supposed to get.
+Fixed the CH8 skip using the badge block
+You can no longer scam the Star Haven shop
+Endgame boss Shadow Twink no longer can be hit by quake
+Star Piece count in Mario's house corrected
+Buzzy Beetles down in the sewers no longer have weaker genes that produce lower ATK values.
+Final Bowsers lightning attack inflicts the correct status now
+Bony Beetle doesnt yeet invis anymore, and gets up + attack same turn
+Dark Paratroopa doesnt yeet invis anymore, and gets up + attack same turn when dropped
+CH7 enemy Rogue Star no longer hits Bow through outta sight
+Trees once frozen in time now properly shake when struck
+Endgame enemy Dark Bones now properly gets up and attacks same turn
+Kooky Cookie and Electro Pop no longer have janky FP recovery (Thanks Rain!)
+
+QOL Changes:
+Ch7 Enemy Rogue Star now has sleep animation (Thanks, LuigiGeek + Brotenko!)
+New sprites for multiple new badges including Multi-Smash, Stop Smash, and Truth Stomp (Thanks Brotenko!)
+Renamed an enemy
+When ATK and DEF are boosted/lowered, the arrow and number display correctly. Usually. (Thanks Rain!)
+New sprites/palettes for a bunch of enemies. Should be nicer to look at. (Thanks Brotenko!)
+The Pit final boss can now be battled each time you reach Floor 100.
+The Pit final reward has a new menu and a really cool animation that goes with it. (Thanks Rain!)
+Red Clubba now has its own name and tattle for in-battle
+Final dungeon maps updated a bit, mostly visual-only.
+Updated some tattles to give away a few little tidbits about the enemy
+Updated other tattles to just be less terrible.
+0BP badges retain their costs even in Luigi's Challenge. (Thanks Quackles!)
+You can refight the final form of The Master.
+Not everyone has a Lenny to count for them, so the Pit now has a sign to tell the floor number.
+You can refight the dungeon final boss.
+Rewrote Luigi's Diary for some extra lore.
