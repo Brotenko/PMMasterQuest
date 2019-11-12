@@ -54,8 +54,8 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
 
 # Patch Notes - **Spoiler warning**
 
-### Balance changes:
-#### Overall chapter changes:
+## Balance changes:
+### Overall chapter changes:
 - **Chapter 1:** 
   - Bill Blaster HP/ATK/DEF: **6/0/2** -> **5/0/3** 
   - Bullet Bills give less SP.  
@@ -148,7 +148,7 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
       - Now immune to all status besides sleep.
       - A new attack has been added.
 
-#### Location specific changes:
+### Location specific changes:
 - **Superbosses:**
   - Goomba King EX:
       - 'Shroom Attack DMG increased: **6** -> **9**
@@ -256,7 +256,7 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
   - Rest Floor hidden block no longer hidden. 
   - Added Star Piece to each rest floor.
   
-#### Other changes:
+### Other changes:
 - Crystal Kind and Crystal King EX now sorta eat Stone Caps. He explains it.
 - Water Block FP cost: **5FP** -> **4FP**
 - Multibounce and Truth Stomp switched spots in Rowf's shop. 
@@ -297,7 +297,7 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
 - Added Extra Happy Heart and Flower to the Star Piece shop.
 - New endgame fight! Make sure you check the Dojo! (Thanks Brotenko!)
 
-#### Bugfixes:
+### Bugfixes:
 - Hitting the Goombnut tree in the Goomba King EX fight no longer has a chance to crash. (Thanks Brotenko!)
 - Crystal King no longer has a chance to crash when his bits are out upon being defeated. (Thanks Brotenko!)
 - Lava Piranha and Lava Piranha EX defense table is now fixed to actually work. (Thanks Brotenko!)
@@ -330,7 +330,7 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
 - Endgame enemy Dark Bones now properly gets up and attacks same turn.
 - Kooky Cookie and Electro Pop no longer have janky FP recovery (Thanks Rain!).
 
-#### QOL Changes:
+### QOL Changes:
 - Chapter 7 enemy Rogue Star now has a sleep animation (Thanks, LuigiGeek + Brotenko!)
 - New sprites for multiple new badges including Multi-Smash, Stop Smash, and Truth Stomp (Thanks Brotenko!)
 - Renamed an enemy.
