@@ -347,3 +347,5 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
 - Not everyone has a **Lenny** to count for them, so the Pit now has a sign to tell the floor number.
 - You can refight the dungeon final boss.
 - Rewrote Luigi's Diary for some extra lore.
+
+#### The Patch Notes **ONLY** have changes made from v1.2 to v1.3 in it and are **NOT** all inclusive.
