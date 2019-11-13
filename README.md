@@ -47,7 +47,7 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
 > This mod is made for the top 1% of challenge runners. MQ Jr will be what you are looking for!
 
 **How can I support MQ?**
->Find someone streaming MQ, and sub to them on twitch or donate or however you want to do it.
+>Find someone streaming MQ, (TwoPieRadian and KappyLP do so often if you can't find anyone) and sub to them on twitch or donate or however you want to do it.
 
 **Where can I post a link if I stream this mod?**
 > Paper Mario Modding and TwoPieRadian [Discord](https://discord.gg/5Gh7daH) channels are a good place to start. Feel free to @Emperor_Thamz if you do, I like to stop by sometimes!
