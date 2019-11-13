@@ -295,7 +295,7 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
 - Frozen Fries heal increased: **15HP** -> **25HP**
 - Money Money BP lowered: **2** -> **0**
 - Added Extra Happy Heart and Flower to the Star Piece shop.
-- New endgame fight! Make sure you check the Dojo! (Thanks Brotenko!)
+- New endgame fight! Make sure you check the Dojo! (Thanks Brotenko for the sprites!)
 
 ## Bugfixes:
 - Hitting the Goombnut tree in the Goomba King EX fight no longer has a chance to crash. (Thanks Brotenko!)
