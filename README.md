@@ -290,7 +290,7 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
 - Changed the formation a bit for the Chapter 8 Duplighost fight.
 - Mega Smash and Multi-Smash switched locations.
 - Bosses who destroy a specific item now destroy all of the particular item in one turn rather than one per turn.
-- Kooky Cookie and Strange Cake now give **1 turn** of invisibility.
+- Kooky Cookie and Strange Cake reworked.
 - Life Shroom on SSS has become an Ultra Shroom.
 - Frozen Fries heal increased: **15HP** -> **25HP**
 - Money Money BP lowered: **2** -> **0**
