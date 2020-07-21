@@ -9,7 +9,8 @@ For those players we offer **Paper Mario: Master Quest Jr** which has all of the
 ### **Some of the new content includes:**
 - 50+ new maps, including a brand new dungeon!
 - A fully functional Pit of 100 Trials.
-- 60+ new enemies, ranging from recolors to fully custom enemies.
+- Boss refights for all major bosses.
+- 60+ new enemies, ranging from recolors to fully custom bosses.
 - Heavy changes to enemy AI, and new battle mechanics not found in the vanilla game.
 - A number of map changes to keep some areas feeling fresh, and keep the player on their toes.
 - Item and Badge rebalancing, some more obscure tools are now viable.
