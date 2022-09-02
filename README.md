@@ -4,7 +4,7 @@
 
 **Paper Mario: Master Quest** is a mod made for "Paper Mario" on the N64. It was created by **Emperor_Thamz**, **Rainchus**, **JaThePlayer**, **Brotenko**, and now **Quackles** (with some bug fixes by **theKidOfArcrania**). It revamps old content and adds plenty of new as well.  
 Often considered "The Dark Souls of Paper Mario", the mod is incredibly difficult. It was designed with elite challenge runners in mind, and unless you have extensive knowledge of Paper Mario, you may struggle with much of the content. 
-For those players we offer **Paper Mario: Master Quest Jr** which has all of the content the original has, with a much more reasonable difficulty curve. If you want to stream the mod, starting with Jr. is recommended.
+For those players we offer **Paper Mario: Master Quest Jr** which has all of the content of Master Quest, with a much more reasonable difficulty curve. If you want to stream the mod, starting with Jr. is recommended.
 
 ### **Some of the new content includes:**
 - 50+ new maps, including a brand new dungeon!
@@ -45,7 +45,7 @@ Note that Glide64 is not GLideN64 - the latter is more accurate to the point of 
 > Open up the graphics plugin settings for your emulator. Non-Bizhawk users should have setup GLideN64 first before this. In the GLideN64 ->Frame Buffer Settings tab, change the FB (Framebuffer) settings to the same as the picture below and click Save. Different emulators may use slightly different names for options.
 
 **Where do I report bugs?**
-> You can post a message in the #mq_chat channel on the Paper Mario Modding [Discord](https://discord.gg/f9rjssf). Keep in mind most bugs in the current version are known, and unless a bug is found that completely prevents completion of the game, it will likely not be patched due to v2.0 being in the works.
+> You can post a message in the #mq_chat channel on the Paper Mario Modding [Discord](https://discord.gg/f9rjssf). Keep in mind that unless a bug is found that completely prevents completion of the game, it will likely not be patched until v2.0 is ready.
 
 **Why is _ so hard!? This mod is unfair!**
 > This mod was designed to be incredibly difficult. If you are struggling, we suggest you check out MQ Jr!
