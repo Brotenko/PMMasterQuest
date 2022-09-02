@@ -2,7 +2,7 @@
 
 # Description
 
-**Paper Mario: Master Quest** is a mod made for "Paper Mario" on the N64. It was created by **Emperor_Thamz**, **Rainchus**, **JaThePlayer**, and **Brotenko**. It revamps old content and adds plenty of new as well.  
+**Paper Mario: Master Quest** is a mod made for "Paper Mario" on the N64. It was created by **Emperor_Thamz**, **Rainchus**, **JaThePlayer**, **Brotenko**, (and some bug fixes by **theKidOfArcrania**). It revamps old content and adds plenty of new as well.  
 Often considered "The Dark Souls of Paper Mario", the mod is incredibly difficult. It was designed with elite challenge runners in mind, and unless you have extensive knowledge of Paper Mario, you may struggle with much of the content. 
 For those players we offer **Paper Mario: Master Quest Jr** which has all of the content the original has, with a much more reasonable difficulty curve. If you want to stream the mod, starting with Jr. is recommended.
 
